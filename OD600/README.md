@@ -11,6 +11,14 @@ __Coming soon: spectral measurements and comparisons of mixed communities and di
 ### Prototype:
 <img src="prototype.jpg" width="45%">
 
+### 3d printed part:
+
+Parametric script in [OpenSCAD](https://openscad.org/): [OD600_15mlFalcon.scad](OD600_15mlFalcon.scad)
+
+Render in stl format: [OD600_15mlFalcon.stl](OD600_15mlFalcon.stl)
+
+<img src="OD600_3dpart.png" width="25%">
+
 ### Circuit:
 <img src="breadboard.png" width="45%">
 
