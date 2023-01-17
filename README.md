@@ -44,8 +44,9 @@ We welcome your input, tips, and suggestions, by pull requests or via email.
 
 Please contact us if these are your projects or products and you'd like to work with us to apply them in the field:
 
-- Nanopore MinION MK1C
+- Nanopore MinION MK1C and VolTRAX
 - Starlink RV or Marine
+- InnovaPrep concentrating pipette
 - [OpenLog](https://www.sparkfun.com/products/13712) very low-cost minimal data logging (bring your own sensor)
 - [Potralizer](https://www.hardware-x.com/article/S2468-0672(22)00118-3/fulltext) Open source cell lysis 
 
