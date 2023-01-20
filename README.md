@@ -8,11 +8,11 @@ We are living through a revolution in computation, communications, microelectron
 
 This repository is a (somewhat idiosyncratic) selection of customized and validated tools we use in our microbiome field expeditions. 
 
-We include devices we have developed and adapted, links to other's projects we appreciate and would like to share, and to commercial products that meet a need. Most are Open Hardware/Open Source, inexpensive (often absolute terms, but at least compared to previous technology), and well suited for lightweight exploration and discovery. Many are quick hacks and works in progress. 
+We include devices we have developed and adapted, links to other's projects we appreciate and would like to share, and to commercial products that meet a need. Most are Open Hardware/Open Source, inexpensive (often in absolute terms, but at least compared to previous technology), and well suited for lightweight exploration and discovery. Many are quick hacks and works in progress. 
 
 These tools lower barriers for microbiome exploration, and open many frontiers to citizen scientist and agile scientific expeditions.  
 
-We welcome your input, tips, and suggestions, by pull requests or via email.  
+We welcome your input, tips, and suggestions, by pull requests or via email to "info \<at\> twofrontiers \<dot\> org".  
 
 <img src="toolbox_photo.png" width="45%">
 
