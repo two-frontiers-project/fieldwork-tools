@@ -1,6 +1,6 @@
 # Two Frontiers Project Fieldwork Tools
 
-A central location for open fieldwork tool development and sharing for the Two Frontiers Project.
+A central location for open fieldwork tool development and sharing for the [Two Frontiers Project](https://twofrontiers.org/).
 
 -----------------
 
