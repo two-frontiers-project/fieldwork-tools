@@ -31,6 +31,7 @@ We welcome your input, tips, and suggestions, by pull requests or via email to "
 
 ## Field sampling
 
+- [Folding sample site imaging stand](./sample-site-pyramid/) for mounting cell phones for consistent image and spectral data acquisition
 - [CualID](https://github.com/johnchase/cual-id) unique and human readable samples IDs (pre-printed on full-sheet Cryo-Babies labels before expedition departure) 
 - Convertible (leur-lock to open barrel) [syringes](https://meritoem.com/product/ex20-sdp/) for flexible sampling of materials in the field
 - [Zymo DNA/RNAshield](https://www.zymoresearch.com/products/dna-rna-shield) for preserving samples for sequencing
